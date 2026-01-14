@@ -70,10 +70,10 @@ termcolor==1.1.0
 tqdm==4.62.3
 traitlets==5.1.1
 typing-extensions==4.0.1
-urllib3==1.26.7
+urllib3==2.6.3
 wcwidth==0.2.5
 webcolors==1.11.1
-Werkzeug==2.0.2
+Werkzeug==3.1.5
 wrapt==1.13.3
 zipp==3.6.0
 dnspython==2.1.0
